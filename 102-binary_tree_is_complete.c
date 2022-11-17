@@ -4,7 +4,6 @@
  * @node: Type pointer of node to be created
  * Return: the node created
  */
-
 link_t *new_node(binary_tree_t *node)
 {
 	link_t *new;
